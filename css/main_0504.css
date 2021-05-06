@@ -233,7 +233,8 @@ th, td {
 	background-repeat: no-repeat;
 	background-position:center bottom;
 	background-color:#fff;
-	border:1px solid #ddd;
+	border:2px solid #ddd;
+	box-sizing:border-box;
 }
 
 .input_table{
