@@ -325,13 +325,16 @@ th, td {
 
 .save_btn{
 	text-align:center;
-	margin-top:8%;
+	margin-top:15%;
 }
 
 .save_btn a{
 	display:block;
 }
 
+.save_btn a img{
+	width:30%;
+}
 /*save_btn*/
 
 
