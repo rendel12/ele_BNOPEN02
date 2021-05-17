@@ -195,7 +195,7 @@ th, td {
 }
 .info_table{
 	height:100vh;
-	max-height:150px;
+	max-height:120px;
 }
 .info_table tr{
 }
@@ -228,13 +228,14 @@ th, td {
 }
 
 .event_input_area{
-	height:30vw;
+	height:40vw;
 	background-image:url(../images/common/bg_logo04.png);
 	background-repeat: no-repeat;
 	background-position:center bottom;
 	background-color:#fff;
 	border:2px solid #ddd;
 	box-sizing:border-box;
+	font-size:2rem;
 }
 
 .input_table{
@@ -251,7 +252,8 @@ th, td {
 	box-sizing:border-box;		
 }
 .input_table tr td{
-	box-sizing:border-box;			
+	box-sizing:border-box;
+	height:70px;
 }
 .input_table tr td input{
 	box-sizing:border-box;
@@ -262,6 +264,8 @@ th, td {
 	border:2px solid #ddd;
 	vertical-align:middle;
 	padding:5%;
+	font-size:1.8rem;
+	text-align: center;
 }
 /*main_con02 // event_input*/
 
@@ -297,20 +301,22 @@ th, td {
 	height:100%;
 	max-height:50px;
 }
-
+.select_table tr td{
+	font-size:1.8rem;
+}
 .select_btn{
 	width:10%;
 }
 .select_name{
-	width:70%;
+	width:65%;
 }
 
 .select_table tr td input{
 	width:100%;
-	width:60px;
-	height:auto;
+	height:3vw;
 	margin:0;
 	padding:0;
+	box-sizing:border-box;
 }
 
 /*main_con03 // event_select*/
@@ -346,4 +352,24 @@ th, td {
 #footer p{
 	color:#fff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
