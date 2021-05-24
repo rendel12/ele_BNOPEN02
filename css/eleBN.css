@@ -345,13 +345,13 @@ th, td {
 
 .con03 ul li:first-child:nth-last-child(4),
 .con03 ul li:first-child:nth-last-child(4) ~ li {
-  width: 46%;
+  width: 47%;
 	max-height:150px;
 }
 
 .con03 ul li:first-child:nth-last-child(5),
 .con03 ul li:first-child:nth-last-child(5) ~ li {
-  width: 29.3%;
+  width: 30.3%;
 	max-height:150px;
 }
 
@@ -411,23 +411,3 @@ th, td {
 #footer p{
 	color:#fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
