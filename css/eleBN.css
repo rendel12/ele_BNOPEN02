@@ -215,7 +215,7 @@ th, td {
 
 /*main_con02 // event_input*/
 .main_con02{
-	margin-bottom:3%;
+	margin-bottom:1%;
 	box-sizing:border-box;
 }
 
@@ -223,7 +223,7 @@ th, td {
 	position:relative;
 }
 .con02 p{
-	margin-bottom:2%;
+	margin-bottom:1%;
 }
 
 .event_input_area{
@@ -280,8 +280,8 @@ th, td {
 	position:relative;
 }
 
-.con03 p{
-	margin-bottom: 2%;
+.con03>p{
+	margin-bottom:1%;
 }
 
 .con03 ul{
@@ -410,23 +410,3 @@ th, td {
 #footer p{
 	color:#fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
