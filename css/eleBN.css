@@ -363,6 +363,15 @@ th, td {
 	max-height:90px;
 }
 
+.con03 li:active{
+	background-color:#f7cd28 !important;
+	border:3px solid #000 !important;
+}
+
+.con03 li:visited{
+	background-color:#f7cd28 !important;
+	border:3px solid #000 !important;
+}
 
 .active_color{
 	background-color:#f7cd28 !important;
