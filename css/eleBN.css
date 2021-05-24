@@ -340,7 +340,7 @@ th, td {
 
 .con03 ul li:first-child:nth-last-child(3),
 .con03 ul li:first-child:nth-last-child(3) ~ li {
-  width: 29.3%;
+  width: 30.3%;
 }
 
 .con03 ul li:first-child:nth-last-child(4),
