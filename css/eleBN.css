@@ -135,6 +135,7 @@ th, td {
 	position:relative;
 	height:3.5vh;
 	margin-bottom:1vh;
+	min-height:40px;
 }
 
 
