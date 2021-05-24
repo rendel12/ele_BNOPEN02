@@ -23,6 +23,7 @@ HTML{
 	height:100vh;
 	position:relative;
 	white-space:nowrap;
+	overflow-y:hidden;
 	
 	 /* Prevent font scaling in landscape */
 		-webkit-text-size-adjust: none; /*Chrome, Safari, newer versions of Opera*/
