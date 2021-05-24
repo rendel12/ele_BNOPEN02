@@ -400,34 +400,15 @@ th, td {
 /*footer*/
 #footer{
 	background-color:#111;
-	width:104.5%;
+	width:100%;
 	color:#fff;
 	text-align:center;
-	height:4%;
+	height:6%;
 	margin-top:3%;
-	margin-left:-3%;
+	padding-top:1%;
+	overflow-y:hidden;
 }
 
 #footer p{
 	color:#fff;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
