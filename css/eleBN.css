@@ -3,7 +3,7 @@
 
 /*reset*/
 
-body{color:#333; font-size:20px; overflow-y:hidden;}
+body{color:#333; font-size:20px;}
 
 body,h1,h2,h3,h4,h5,h6,p,dl,dd{margin:0; padding:0;}
 
@@ -23,7 +23,6 @@ HTML{
 	height:100%;
 	position:relative;
 	white-space:nowrap;
-	overflow:hidden;
 	
 	 /* Prevent font scaling in landscape */
 		-webkit-text-size-adjust: none; /*Chrome, Safari, newer versions of Opera*/
