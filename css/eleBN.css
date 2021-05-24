@@ -369,7 +369,12 @@ th, td {
 .con03 ul li:nth-child(6){background-color:#c0cbe1;}
 
 
-.con03 li:active, .con03 li:visited, .con03 li:checked{
+.con03 li:active{
+	background-color:#f7cd28 !important;
+	border:3px solid #000;
+}
+
+.con03 li:visited{
 	background-color:#f7cd28 !important;
 	border:3px solid #000;
 }
