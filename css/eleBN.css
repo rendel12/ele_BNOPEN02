@@ -400,15 +400,11 @@ th, td {
 /*footer*/
 #footer{
 	background-color:#111;
-	position:fixed;
-	bottom:0;
-	margin:0 auto;
-	left:0;
-	right:0;
-	width:100%;
+	width:100vw;
 	color:#fff;
 	text-align:center;
 	height:3%;
+	margin-top:3%;
 }
 
 #footer p{
