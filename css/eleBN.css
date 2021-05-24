@@ -126,6 +126,10 @@ th, td {
 /*header*/
 
 /*event_tit*/
+.event_tit{
+	min-height:55px;
+}
+
 .event_tit_box{
 	display:block;
 	width:100%;
