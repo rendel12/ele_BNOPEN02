@@ -400,10 +400,10 @@ th, td {
 /*footer*/
 #footer{
 	background-color:#111;
-	width:100vw;
+	width:104.5%;
 	color:#fff;
 	text-align:center;
-	height:3%;
+	height:4%;
 	margin-top:3%;
 	margin-left:-3%;
 }
